@@ -1,9 +1,9 @@
 # Loan Approval Prediction Project
 
-##Overview
+## Overview
 This project aims to build machine learning models to predict whether a loan application should be approved or rejected based on various features provided by applicants. The models are trained using historical loan data, and their performance is evaluated using metrics such as accuracy, precision, recall, and F1-score.
 
-##Project Structure
+## Project Structure
 The project is organized as follows:
 
 Dataset/: Directory containing the dataset used for training and testing the models.
@@ -16,7 +16,7 @@ test_data.csv: CSV file containing the testing data (X_test and y_test) used for
 ## Dataset
 The dataset used in this project contains information about loan applicants, including features such as number of dependents, education level, income, loan amount, credit score, and assets value. The target variable is the loan approval status (Approved/Rejected).
 
-##Model Building
+## Model Building
 Four different machine learning algorithms are explored for building the loan approval prediction models:
 
 1. Random Forest Classifier
@@ -25,7 +25,7 @@ Four different machine learning algorithms are explored for building the loan ap
 4. CatBoost Classifier
 Each model is trained using the training data and evaluated using various evaluation metrics to assess its performance.
 
-##Usage
+## Usage
 To use this project, follow these steps:
 
 Clone the repository to your local machine:

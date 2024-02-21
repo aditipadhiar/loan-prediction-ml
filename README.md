@@ -6,12 +6,12 @@ This project aims to build machine learning models to predict whether a loan app
 ## Project Structure
 The project is organized as follows:
 
-Dataset/: Directory containing the dataset used for training and testing the models.
-trained_models/: Directory containing the trained machine learning models saved as joblib files.
-catboost_info/: Directory created by CatBoost during installation, containing configuration files and cached data.
-README.md: This file providing an overview of the project.
-loan_approval_prediction.ipynb: Jupyter Notebook containing the code for data preprocessing, model training, evaluation, and testing.
-test_data.csv: CSV file containing the testing data (X_test and y_test) used for evaluating the trained models.
+- Dataset/: Directory containing the dataset used for training and testing the models.
+- trained_models/: Directory containing the trained machine learning models saved as joblib files.
+- catboost_info/: Directory created by CatBoost during installation, containing configuration files and cached data.
+- README.md: This file providing an overview of the project.
+- loan_approval_prediction.ipynb: Jupyter Notebook containing the code for data preprocessing, model training, evaluation, and testing.
+- test_data.csv: CSV file containing the testing data (X_test and y_test) used for evaluating the trained models.
 
 ## Dataset
 The dataset used in this project contains information about loan applicants, including features such as number of dependents, education level, income, loan amount, credit score, and assets value. The target variable is the loan approval status (Approved/Rejected).

@@ -23,6 +23,7 @@ Four different machine learning algorithms are explored for building the loan ap
 2. Support Vector Machine (SVM)
 3. Gradient Boosting Classifier
 4. CatBoost Classifier
+   
 Each model is trained using the training data and evaluated using various evaluation metrics to assess its performance.
 
 ## Usage

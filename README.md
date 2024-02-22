@@ -45,6 +45,6 @@ The performance of each model is evaluated using metrics such as accuracy, preci
 ## Future Work
 Possible future enhancements to this project include:
 
-Fine-tuning hyperparameters of the models for better performance.
-Exploring additional machine learning algorithms for model building.
-Conducting further analysis to understand the factors influencing loan approval decisions.
+- Fine-tuning hyperparameters of the models for better performance.
+- Exploring additional machine learning algorithms for model building.
+- Conducting further analysis to understand the factors influencing loan approval decisions.
